@@ -2,8 +2,8 @@
  "id": "26ac2293b4a185f4",
  "name": "Alegon",
  "tag": "3033",
- "lvl": 1,
- "xp": 68,
+ "lvl": 2,
+ "xp": 158,
  "streak": 1,
  "streakBest": 1,
  "tetris": 0,
@@ -14,9 +14,9 @@
  "quiz": 2,
  "bdq": 0,
  "coleccion": 240,
- "pase": 0,
+ "pase": 1,
  "pet": "🐲",
  "title": "Glitch en el Sistema",
- "t": 1794572437245,
+ "t": 1794604299913,
  "v": "2.8.5"
 }
