@@ -3,7 +3,7 @@
  "name": "Alegon",
  "tag": "3033",
  "lvl": 6,
- "xp": 721,
+ "xp": 868,
  "streak": 2,
  "streakBest": 2,
  "tetris": 0,
@@ -17,6 +17,6 @@
  "pase": 6,
  "pet": "🐈",
  "title": "Glitch en el Sistema",
- "t": 1794850738153,
- "v": "3.0.0"
+ "t": 1794869719567,
+ "v": "3.4.0"
 }
